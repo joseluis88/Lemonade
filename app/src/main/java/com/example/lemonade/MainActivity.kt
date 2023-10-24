@@ -123,6 +123,7 @@ fun LemonadeApp() {
                         }
                     )
                 }
+                /*Todo bien*/
 
                 3 -> {
                     LemonTextAndImage(
